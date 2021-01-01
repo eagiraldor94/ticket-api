@@ -4,7 +4,7 @@ Remember to update de events and users seeder
 
 Ask for api token for auth with Laravel/Sanctum with a post request with email and password to "http://ticket-api.oo/api/login", postman adviced for this.
 
-#Routes:
+##Routes:
 
 GET:
     "http://ticket-api.oo/api/events/get/id**" -> The id is optional, dont include to get all.
